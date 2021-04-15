@@ -1,0 +1,13 @@
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\bin\Debug\netcoreapp3.1\Bitacora.exe
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\bin\Debug\netcoreapp3.1\Bitacora.deps.json
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\bin\Debug\netcoreapp3.1\Bitacora.runtimeconfig.json
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\bin\Debug\netcoreapp3.1\Bitacora.runtimeconfig.dev.json
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\bin\Debug\netcoreapp3.1\Bitacora.dll
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\bin\Debug\netcoreapp3.1\Bitacora.pdb
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\obj\Debug\netcoreapp3.1\Bitacora.csprojAssemblyReference.cache
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\obj\Debug\netcoreapp3.1\Bitacora.AssemblyInfoInputs.cache
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\obj\Debug\netcoreapp3.1\Bitacora.AssemblyInfo.cs
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\obj\Debug\netcoreapp3.1\Bitacora.csproj.CoreCompileInputs.cache
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\obj\Debug\netcoreapp3.1\Bitacora.dll
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\obj\Debug\netcoreapp3.1\Bitacora.pdb
+C:\Users\Vìctor\source\repos\Bitacora\Bitacora\obj\Debug\netcoreapp3.1\Bitacora.genruntimeconfig.cache
